@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hc-n-syverson
-- 👀 I’m interested in java and java programming.
-- 🌱 I’m currently learning java implementations of REST webservicesa
+- 👋 Hi, I’m Nathan Syverson
+- 👀 I am interested in Enterprise Content Services, Java, automated testing with JUnit, and much more.
+- 🌱 I’m currently working on test automation for FileNet
 - 💞️ I’m looking to collaborate on standard APIs for developers in my organization.
-- 📫 How to reach me: The best way is to find me on Teams.
+- 📫 How to reach me: Teams (Nathan A Syverson)
